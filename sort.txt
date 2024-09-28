@@ -1,0 +1,2 @@
+thời gian chạy là 1727490250614ms. 
+thời gian chạy của hàm sort làm N * N.
